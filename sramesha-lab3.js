@@ -132,7 +132,7 @@ function sortPeopleByAge(people) {
 }
 //test case 1
 console.log("------ Exercise #5 ------");
-console.log("-Test case 1 -");
+console.log("--Test case 1 --");
 let people1 = [
     {name: 'John', age: 25, city: 'Chicago'},
     {name: 'Anna', age: 20, city: 'New York'},
@@ -143,7 +143,7 @@ let people1 = [
 console.log(sortPeopleByAge(people1));
 
 //test case 2
-console.log("-Test case 2 -");
+console.log("--Test case 2 --");
 let people2 = [
     {name: 'Lily', age: 19, city: 'Miami'},
     {name: 'David', age: 35, city: 'Denver'},
